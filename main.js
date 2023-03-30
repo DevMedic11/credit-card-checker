@@ -96,4 +96,6 @@ console.log(findInvalidCards(batch))
 console.log(idInvalidCardCompanies(batch));
 z='3456789001235839';
 console.log(stringToNumber(z));*/
+console.log('Learning Git')
+
 
