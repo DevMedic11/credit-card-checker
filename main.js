@@ -99,5 +99,5 @@ console.log(stringToNumber(z));*/
 console.log('Learning Git')
 console.log('Lets make an edit on the original file')
 console.log('it should show up in the new app')
-
+console.log('make changes, push to WC, push to GH')
 
